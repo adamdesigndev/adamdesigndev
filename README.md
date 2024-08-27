@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in desiging and building clean and user frienldy apps.
+- 👀 I’m interested in developing and designing websites and apps.
 - 🌱 I’m currently learning Vue js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: adamdevdesign@gmail.com
 
-<!---
-adamdesigndev/adamdesigndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
